@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 00c839c4b2d152f4bbbf314b268e4d4b
+timeCreated: 1459743114
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run loop slant spritesheet no mask_0
+    21300002: run loop slant spritesheet no mask_1
+    21300004: run loop slant spritesheet no mask_2
+    21300006: run loop slant spritesheet no mask_3
+    21300008: run loop slant spritesheet no mask_4
+    21300010: run loop slant spritesheet no mask_5
+    21300012: run loop slant spritesheet no mask_6
+    21300014: run loop slant spritesheet no mask_7
+    21300016: run loop slant spritesheet no mask_8
+    21300018: run loop slant spritesheet no mask_9
+    21300020: run loop slant spritesheet no mask_10
+    21300022: run loop slant spritesheet no mask_11
+    21300024: run loop slant spritesheet no mask_12
+    21300026: run loop slant spritesheet no mask_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: run loop slant spritesheet no mask_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 54
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 51.75}
+        - {x: -27, y: 34.75}
+        - {x: -27, y: -29.25}
+        - {x: -19, y: -63.25}
+        - {x: 27, y: -63.25}
+        - {x: 27, y: 51.75}
+    - name: run loop slant spritesheet no mask_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 58
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -49.350006}
+        - {x: 13, y: -52.350006}
+        - {x: 29, y: -42.350006}
+        - {x: 29, y: 50.649994}
+        - {x: 24, y: 52.649994}
+        - {x: -3, y: 52.649994}
+        - {x: -26, y: 23.649994}
+        - {x: -29, y: 9.649994}
+        - {x: -29, y: -62.350006}
+        - {x: -24, y: -64.350006}
+        - {x: 2, y: -64.350006}
+        - {x: 7, y: -58.350006}
+        - {x: 8, y: -52.350006}
+        - {x: 3, y: -46.350006}
+    - name: run loop slant spritesheet no mask_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 148
+        width: 69
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -66.55}
+        - {x: 34.5, y: -66.55}
+        - {x: 34.5, y: 26.449997}
+        - {x: 18.5, y: 54.449997}
+        - {x: -6.5, y: 54.449997}
+        - {x: -14.5, y: 51.449997}
+        - {x: -34.5, y: 36.449997}
+    - name: run loop slant spritesheet no mask_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 147
+        width: 67
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 54}
+        - {x: -3.5, y: 54}
+        - {x: -33.5, y: 34}
+        - {x: -33.5, y: -63}
+        - {x: -32.5, y: -66}
+        - {x: -9.5, y: -66}
+        - {x: -7.5, y: -65}
+        - {x: -8.5, y: -58}
+        - {x: 32.5, y: -43}
+        - {x: 33.5, y: -41}
+    - name: run loop slant spritesheet no mask_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 153
+        width: 62
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 50.850006}
+        - {x: -31, y: 30.850006}
+        - {x: -31, y: -62.149994}
+        - {x: 0, y: -62.149994}
+        - {x: 31, y: -54.149994}
+        - {x: 31, y: 50.850006}
+    - name: run loop slant spritesheet no mask_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 161
+        width: 61
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 46.350006}
+        - {x: -30.5, y: 11.350006}
+        - {x: -30.5, y: -56.649994}
+        - {x: 19.5, y: -56.649994}
+        - {x: 30.5, y: -50.649994}
+        - {x: 30.5, y: 46.350006}
+    - name: run loop slant spritesheet no mask_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 159
+        width: 57
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 47.699997}
+        - {x: -7.5, y: 47.699997}
+        - {x: -28.5, y: 11.699997}
+        - {x: -28.5, y: -28.300003}
+        - {x: -20.5, y: -58.300003}
+        - {x: 18.5, y: -58.300003}
+        - {x: 26.5, y: -56.300003}
+        - {x: 28.5, y: -39.300003}
+        - {x: 28.5, y: 44.699997}
+    - name: run loop slant spritesheet no mask_7
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 154
+        width: 54
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 49.949997}
+        - {x: -20, y: 41.949997}
+        - {x: -27, y: 36.949997}
+        - {x: -27, y: -61.050003}
+        - {x: 14, y: -61.050003}
+        - {x: 27, y: -44.050003}
+        - {x: 27, y: 49.949997}
+    - name: run loop slant spritesheet no mask_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 151
+        width: 57
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 52.649994}
+        - {x: -27.5, y: 36.649994}
+        - {x: -28.5, y: 29.649994}
+        - {x: -28.5, y: -63.350006}
+        - {x: -24.5, y: -64.350006}
+        - {x: 5.5, y: -64.350006}
+        - {x: 28.5, y: -49.350006}
+        - {x: 28.5, y: 52.649994}
+    - name: run loop slant spritesheet no mask_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 69
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 54.449997}
+        - {x: -34.5, y: 27.449997}
+        - {x: -34.5, y: -66.55}
+        - {x: 19.5, y: -66.55}
+        - {x: 34.5, y: -54.550003}
+        - {x: 34.5, y: 54.449997}
+    - name: run loop slant spritesheet no mask_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 7
+        width: 67
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 54.449997}
+        - {x: -28.5, y: 32.449997}
+        - {x: -33.5, y: 7.449997}
+        - {x: -33.5, y: -66.55}
+        - {x: -9.5, y: -66.55}
+        - {x: -7.5, y: -65.55}
+        - {x: 33.5, y: -55.550003}
+        - {x: 33.5, y: 53.449997}
+        - {x: 29.5, y: 54.449997}
+    - name: run loop slant spritesheet no mask_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 14
+        width: 62
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 51.300003}
+        - {x: -31, y: 31.300003}
+        - {x: -31, y: -62.699997}
+        - {x: 6, y: -62.699997}
+        - {x: 31, y: -54.699997}
+        - {x: 31, y: 51.300003}
+    - name: run loop slant spritesheet no mask_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 22
+        width: 56
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 47.699997}
+        - {x: -28, y: 34.699997}
+        - {x: -28, y: -58.300003}
+        - {x: 28, y: -58.300003}
+        - {x: 28, y: 47.699997}
+    - name: run loop slant spritesheet no mask_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 20
+        width: 53
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 48.149994}
+        - {x: -26.5, y: 41.149994}
+        - {x: -26.5, y: -58.850006}
+        - {x: 26.5, y: -58.850006}
+        - {x: 26.5, y: 48.149994}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

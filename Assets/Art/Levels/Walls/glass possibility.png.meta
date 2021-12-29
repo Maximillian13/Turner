@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 1d974e8260de6694cb9a022bdd5f3fdc
+timeCreated: 1452469346
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: glass possibility_0
+    21300002: glass possibility_1
+    21300004: glass possibility_2
+    21300006: glass possibility_3
+    21300008: glass possibility_4
+    21300010: glass possibility_5
+    21300012: glass possibility_6
+    21300014: glass possibility_7
+    21300016: glass possibility_8
+    21300018: glass possibility_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: glass possibility_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 873
+        width: 268
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 69
+        width: 46
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_2
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 68
+        width: 46
+        height: 1130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 768
+        width: 347
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 663
+        width: 414
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 567
+        width: 551
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 69
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 69
+        width: 46
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 69
+        width: 46
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: glass possibility_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 69
+        width: 46
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

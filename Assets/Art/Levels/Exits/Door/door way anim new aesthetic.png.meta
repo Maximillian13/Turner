@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: c3973aab2076f1b4798ce20d8d92c938
+timeCreated: 1449963156
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: door way anim new aesthetic_0
+    21300002: door way anim new aesthetic_1
+    21300004: door way anim new aesthetic_2
+    21300006: door way anim new aesthetic_3
+    21300008: door way anim new aesthetic_4
+    21300010: door way anim new aesthetic_5
+    21300012: door way anim new aesthetic_6
+    21300014: door way anim new aesthetic_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: door way anim new aesthetic_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1173
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: door way anim new aesthetic_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1007
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: door way anim new aesthetic_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 841
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: door way anim new aesthetic_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 675
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: door way anim new aesthetic_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 509
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: door way anim new aesthetic_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 342
+        width: 85
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: door way anim new aesthetic_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 177
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: door way anim new aesthetic_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 85
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

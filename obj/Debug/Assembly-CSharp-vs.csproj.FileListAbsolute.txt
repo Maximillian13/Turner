@@ -1,0 +1,24 @@
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\UnityEditor.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\UnityEngine.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\Mono.Cecil.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\nunit.framework.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\Unity.DataContract.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\obj\Debug\Assembly-CSharp.dll
+E:\Program Files (x86)\Unity Projects\Turner Demo V2\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\obj\Debug\Assembly-CSharp.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Maximillian\Desktop\Turner v0.1 - 10-6-15(Tits)\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: efc5eb273f4bf0c4d862fe55116d49f9
+timeCreated: 1444875852
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Credits_0
+    21300002: Credits_3
+    21300004: Credits_4
+    21300006: Credits_6
+    21300008: Credits_7
+    21300010: Credits_9
+    21300012: Credits_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Credits_0
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 474
+        width: 103
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Credits_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 476
+        width: 519
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Credits_4
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 469
+        width: 465
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Credits_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 548
+        width: 245
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Credits_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 354
+        width: 185
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Credits_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 348
+        width: 451
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Credits_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 127
+        width: 537
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

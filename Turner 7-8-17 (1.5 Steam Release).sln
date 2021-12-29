@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turner 7-8-17 (1.5 Steam Release).Plugins", "Turner 7-8-17 (1.5 Steam Release).Plugins.csproj", "{6329C176-64B9-8F1F-979A-2B4DE31BDC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turner 7-8-17 (1.5 Steam Release)", "Turner 7-8-17 (1.5 Steam Release).csproj", "{3D84FB5B-0237-415C-353C-2A48F37C11F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turner 7-8-17 (1.5 Steam Release).Editor", "Turner 7-8-17 (1.5 Steam Release).Editor.csproj", "{0C3252C6-CC24-056B-AD03-C764113636C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6329C176-64B9-8F1F-979A-2B4DE31BDC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6329C176-64B9-8F1F-979A-2B4DE31BDC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6329C176-64B9-8F1F-979A-2B4DE31BDC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6329C176-64B9-8F1F-979A-2B4DE31BDC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D84FB5B-0237-415C-353C-2A48F37C11F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D84FB5B-0237-415C-353C-2A48F37C11F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D84FB5B-0237-415C-353C-2A48F37C11F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D84FB5B-0237-415C-353C-2A48F37C11F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3252C6-CC24-056B-AD03-C764113636C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3252C6-CC24-056B-AD03-C764113636C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3252C6-CC24-056B-AD03-C764113636C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3252C6-CC24-056B-AD03-C764113636C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

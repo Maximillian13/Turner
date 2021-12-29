@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 00cf201a92c010342a4250f63708c451
+timeCreated: 1452990562
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wall static new aesthetic try this_0
+    21300002: wall static new aesthetic try this_1
+    21300004: wall static new aesthetic try this_2
+    21300006: wall static new aesthetic try this_3
+    21300008: wall static new aesthetic try this_4
+    21300010: wall static new aesthetic try this_5
+    21300012: wall static new aesthetic try this_6
+    21300014: wall static new aesthetic try this_7
+    21300016: wall static new aesthetic try this_8
+    21300018: wall static new aesthetic try this_9
+    21300020: wall static new aesthetic try this_10
+    21300022: wall static new aesthetic try this_11
+    21300024: wall static new aesthetic try this_12
+    21300026: wall static new aesthetic try this_13
+    21300028: wall static new aesthetic try this_14
+    21300030: wall static new aesthetic try this_15
+    21300032: wall static new aesthetic try this_16
+    21300034: wall static new aesthetic try this_17
+    21300036: wall static new aesthetic try this_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -2
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: wall static new aesthetic try this_0
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 874
+        width: 266
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 69
+        width: 44
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_2
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 68
+        width: 44
+        height: 1130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 769
+        width: 345
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 664
+        width: 412
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 568
+        width: 554
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 389
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 385
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 388
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_9
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 69
+        width: 44
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 342
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 342
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 342
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 291
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 291
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 291
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_17
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 69
+        width: 44
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: wall static new aesthetic try this_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 69
+        width: 44
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

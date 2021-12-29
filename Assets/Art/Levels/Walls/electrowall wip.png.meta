@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 17e31ddd8ae495143a5b9bb7be0bce01
+timeCreated: 1454307330
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: electrowall wip_0
+    21300002: electrowall wip_1
+    21300004: electrowall wip_2
+    21300006: electrowall wip_3
+    21300008: electrowall wip_4
+    21300010: electrowall wip_5
+    21300012: electrowall wip_6
+    21300014: electrowall wip_7
+    21300016: electrowall wip_8
+    21300018: electrowall wip_9
+    21300020: electrowall wip_10
+    21300022: electrowall wip_11
+    21300024: electrowall wip_12
+    21300026: electrowall wip_13
+    21300028: electrowall wip_14
+    21300030: electrowall wip_15
+    21300032: electrowall wip_16
+    21300034: electrowall wip_17
+    21300036: electrowall wip_18
+    21300038: electrowall wip_19
+    21300040: electrowall wip_20
+    21300042: electrowall wip_21
+    21300044: electrowall wip_22
+    21300046: electrowall wip_23
+    21300048: electrowall wip_24
+    21300050: electrowall wip_25
+    21300052: electrowall wip_26
+    21300054: electrowall wip_27
+    21300056: electrowall wip_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: electrowall wip_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 873
+        width: 268
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 23}
+        - {x: -134, y: -23}
+        - {x: 134, y: -23}
+        - {x: 134, y: 23}
+    - name: electrowall wip_1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 65
+        width: 19
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 65
+        width: 19
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_3
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 64
+        width: 19
+        height: 1138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 64
+        width: 19
+        height: 1138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 768
+        width: 347
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -173.5, y: 23}
+        - {x: -173.5, y: -23}
+        - {x: 173.5, y: -23}
+        - {x: 173.5, y: 23}
+    - name: electrowall wip_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 663
+        width: 414
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -207, y: 23}
+        - {x: -207, y: -23}
+        - {x: 207, y: -23}
+        - {x: 207, y: 23}
+    - name: electrowall wip_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 567
+        width: 556
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -277, y: 23}
+        - {x: -278, y: 22}
+        - {x: -278, y: -21}
+        - {x: -276, y: -23}
+        - {x: 276, y: -23}
+        - {x: 278, y: -21}
+        - {x: 278, y: 21}
+        - {x: 276, y: 23}
+    - name: electrowall wip_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 385
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 22.5}
+        - {x: -21.5, y: 3.5}
+        - {x: -22.5, y: 1.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -1.5, y: -22.5}
+        - {x: 19.5, y: -0.5}
+        - {x: 22.5, y: 6.5}
+        - {x: 22.5, y: 22.5}
+      - - {x: 12.5, y: -2.5}
+        - {x: 2.5, y: -12.5}
+        - {x: 2.5, y: -18.5}
+        - {x: 3.5, y: -21.5}
+        - {x: 8.5, y: -22.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 22.5, y: -2.5}
+    - name: electrowall wip_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 411
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 385
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: -2.5}
+        - {x: -22.5, y: -7.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -2.5, y: -22.5}
+        - {x: -2.5, y: -12.5}
+        - {x: -12.5, y: -2.5}
+      - - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: -1.5}
+        - {x: -10.5, y: -22.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 22.5, y: 14.5}
+        - {x: 7.5, y: 22.5}
+    - name: electrowall wip_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 65
+        width: 19
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 65
+        width: 19
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 337
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 337
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 338
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 22.5}
+        - {x: -23, y: -22.5}
+        - {x: 23, y: -22.5}
+        - {x: 23, y: 22.5}
+    - name: electrowall wip_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 337
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 337
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: -4.5}
+        - {x: -3.5, y: -21.5}
+        - {x: -0.5, y: -22.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 22.5, y: 0.5}
+        - {x: 5.5, y: 22.5}
+      - - {x: 2.5, y: 12.5}
+        - {x: 12.5, y: 2.5}
+        - {x: 20.5, y: 2.5}
+        - {x: 22.5, y: 7.5}
+        - {x: 22.5, y: 22.5}
+        - {x: 2.5, y: 22.5}
+    - name: electrowall wip_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 317
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 290
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -22.5}
+        - {x: 3.5, y: -22.5}
+        - {x: 22.5, y: -1.5}
+        - {x: 22.5, y: 22.5}
+        - {x: -4.5, y: 22.5}
+        - {x: -22.5, y: 13.5}
+      - - {x: -7.5, y: 22.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -22.5, y: 10.5}
+        - {x: -20.5, y: 3.5}
+        - {x: -18.5, y: 2.5}
+        - {x: -12.5, y: 2.5}
+        - {x: -2.5, y: 12.5}
+        - {x: -2.5, y: 19.5}
+    - name: electrowall wip_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 290
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 65
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_24
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 65
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 65
+        width: 19
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 65
+        width: 19
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 65
+        width: 19
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: electrowall wip_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 65
+        width: 19
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

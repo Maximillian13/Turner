@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 8630ac4bc5673de4aa4921a230ed3317
+timeCreated: 1459719746
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run loop downhill slant spritesheet_0
+    21300002: run loop downhill slant spritesheet_1
+    21300004: run loop downhill slant spritesheet_2
+    21300006: run loop downhill slant spritesheet_3
+    21300008: run loop downhill slant spritesheet_4
+    21300010: run loop downhill slant spritesheet_5
+    21300012: run loop downhill slant spritesheet_6
+    21300014: run loop downhill slant spritesheet_7
+    21300016: run loop downhill slant spritesheet_8
+    21300018: run loop downhill slant spritesheet_9
+    21300020: run loop downhill slant spritesheet_10
+    21300022: run loop downhill slant spritesheet_11
+    21300024: run loop downhill slant spritesheet_12
+    21300026: run loop downhill slant spritesheet_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: run loop downhill slant spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 167
+        width: 79
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 44.550003}
+        - {x: -13.5, y: 32.550003}
+        - {x: -39.5, y: -17.449997}
+        - {x: -39.5, y: -51.449997}
+        - {x: -38.5, y: -54.449997}
+        - {x: 15.5, y: -54.449997}
+        - {x: 18.5, y: -53.449997}
+        - {x: 39.5, y: 13.550003}
+        - {x: 39.5, y: 44.550003}
+    - name: run loop downhill slant spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 86
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 48.149994}
+        - {x: -43, y: 3.149994}
+        - {x: -43, y: -43.850006}
+        - {x: -34, y: -47.850006}
+        - {x: -29, y: -49.850006}
+        - {x: -23, y: -49.850006}
+        - {x: -19, y: -47.850006}
+        - {x: -18, y: -44.850006}
+        - {x: -19, y: -53.850006}
+        - {x: -13, y: -58.850006}
+        - {x: 21, y: -58.850006}
+        - {x: 43, y: -0.8500061}
+        - {x: 43, y: 48.149994}
+    - name: run loop downhill slant spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 155
+        width: 90
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 49.949997}
+        - {x: -45, y: 7.949997}
+        - {x: -45, y: -61.050003}
+        - {x: 35, y: -61.050003}
+        - {x: 38, y: -54.050003}
+        - {x: 45, y: -10.050003}
+        - {x: 45, y: 49.949997}
+    - name: run loop downhill slant spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 150
+        width: 92
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 51.300003}
+        - {x: 0, y: 30.300003}
+        - {x: -6, y: 17.300003}
+        - {x: -46, y: -12.699997}
+        - {x: -46, y: -35.699997}
+        - {x: -41, y: -40.699997}
+        - {x: -13, y: -55.699997}
+        - {x: -5, y: -60.699997}
+        - {x: 0, y: -62.699997}
+        - {x: 17, y: -62.699997}
+        - {x: 46, y: 12.300003}
+        - {x: 46, y: 51.300003}
+    - name: run loop downhill slant spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 157
+        width: 90
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 47.699997}
+        - {x: -45, y: 8.699997}
+        - {x: -45, y: -52.300003}
+        - {x: -41, y: -58.300003}
+        - {x: 6, y: -58.300003}
+        - {x: 9, y: -52.300003}
+        - {x: 45, y: 21.699997}
+        - {x: 45, y: 47.699997}
+    - name: run loop downhill slant spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 160
+        width: 85
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 45}
+        - {x: -42.5, y: 8}
+        - {x: -42.5, y: -51}
+        - {x: -40.5, y: -55}
+        - {x: -1.5, y: -55}
+        - {x: 42.5, y: 22}
+        - {x: 42.5, y: 45}
+    - name: run loop downhill slant spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 161
+        width: 80
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 45}
+        - {x: -40, y: 1}
+        - {x: -40, y: -50}
+        - {x: -35, y: -55}
+        - {x: 0, y: -55}
+        - {x: 40, y: 16}
+        - {x: 40, y: 45}
+    - name: run loop downhill slant spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 168
+        width: 78
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 41.850006}
+        - {x: -5, y: 36.850006}
+        - {x: -22, y: 11.850006}
+        - {x: -39, y: -29.149994}
+        - {x: -39, y: -51.149994}
+        - {x: 1, y: -51.149994}
+        - {x: 15, y: -47.149994}
+        - {x: 39, y: 14.850006}
+        - {x: 39, y: 41.850006}
+    - name: run loop downhill slant spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 160
+        width: 85
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 47.25}
+        - {x: -42.5, y: 7.25}
+        - {x: -42.5, y: -49.75}
+        - {x: -38.5, y: -57.75}
+        - {x: -37.5, y: -57.75}
+        - {x: -22.5, y: -48.75}
+        - {x: -18.5, y: -46.75}
+        - {x: -17.5, y: -43.75}
+        - {x: -17.5, y: -38.75}
+        - {x: -15.5, y: -35.75}
+        - {x: -17.5, y: -47.75}
+        - {x: -20.5, y: -53.75}
+        - {x: -10.5, y: -57.75}
+        - {x: 11.5, y: -57.75}
+        - {x: 29.5, y: -28.75}
+        - {x: 42.5, y: 19.25}
+        - {x: 42.5, y: 47.25}
+    - name: run loop downhill slant spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 15
+        width: 90
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 50.399994}
+        - {x: -45, y: 7.399994}
+        - {x: -45, y: -60.600006}
+        - {x: -44, y: -61.600006}
+        - {x: 29, y: -61.600006}
+        - {x: 37, y: -55.600006}
+        - {x: 45, y: -10.600006}
+        - {x: 45, y: 50.399994}
+    - name: run loop downhill slant spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 11
+        width: 92
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 51.300003}
+        - {x: -26, y: 24.300003}
+        - {x: -46, y: -3.699997}
+        - {x: -46, y: -58.699997}
+        - {x: -24, y: -62.699997}
+        - {x: 17, y: -62.699997}
+        - {x: 46, y: 12.300003}
+        - {x: 46, y: 51.300003}
+    - name: run loop downhill slant spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 17
+        width: 91
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 48.6}
+        - {x: -45.5, y: -3.4000015}
+        - {x: -45.5, y: -34.4}
+        - {x: -44.5, y: -36.4}
+        - {x: -11.5, y: -59.4}
+        - {x: 11.5, y: -59.4}
+        - {x: 45.5, y: 5.5999985}
+        - {x: 45.5, y: 48.6}
+    - name: run loop downhill slant spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 21
+        width: 83
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 46.800003}
+        - {x: -41.5, y: -1.199997}
+        - {x: -41.5, y: -28.199997}
+        - {x: -28.5, y: -51.199997}
+        - {x: -20.5, y: -57.199997}
+        - {x: 11.5, y: -57.199997}
+        - {x: 41.5, y: 15.800003}
+        - {x: 41.5, y: 46.800003}
+    - name: run loop downhill slant spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 22
+        width: 79
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 46.35}
+        - {x: -39.5, y: -12.650002}
+        - {x: -39.5, y: -51.65}
+        - {x: -38.5, y: -54.65}
+        - {x: -33.5, y: -56.65}
+        - {x: -1.5, y: -56.65}
+        - {x: 39.5, y: 13.349998}
+        - {x: 39.5, y: 46.35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

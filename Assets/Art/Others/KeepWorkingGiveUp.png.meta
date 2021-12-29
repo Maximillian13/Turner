@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 327883593b7b9bf44b8414c0671d6205
+timeCreated: 1469922350
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KeepWorkingGiveUp_0
+    21300002: KeepWorkingGiveUp_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: KeepWorkingGiveUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 314
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 31.5}
+        - {x: 39, y: 25.5}
+        - {x: 38, y: 23.5}
+        - {x: 38, y: -31.5}
+        - {x: 54, y: -48.5}
+        - {x: 80, y: -48.5}
+        - {x: 109, y: -17.5}
+        - {x: 109, y: 3.5}
+        - {x: 74, y: 31.5}
+      - - {x: -125, y: 10.5}
+        - {x: -120, y: 4.5}
+        - {x: -142, y: -0.5}
+        - {x: -127, y: 31.5}
+        - {x: -92, y: 22.5}
+        - {x: -91, y: -14.5}
+        - {x: -89, y: -16.5}
+        - {x: -85, y: -17.5}
+        - {x: -83, y: -13.5}
+        - {x: -83, y: 37.5}
+        - {x: -99, y: 43.5}
+        - {x: -136, y: 43.5}
+        - {x: -150, y: 30.5}
+        - {x: -151, y: 20.5}
+        - {x: -151, y: -11.5}
+        - {x: -133, y: -21.5}
+        - {x: -106, y: -21.5}
+        - {x: -98, y: -12.5}
+        - {x: -94, y: 9.5}
+        - {x: -101, y: 15.5}
+      - - {x: -12, y: 6.5}
+        - {x: -9, y: 34.5}
+        - {x: -16, y: 36.5}
+        - {x: -28, y: 36.5}
+        - {x: -47, y: 14.5}
+        - {x: -47, y: -6.5}
+        - {x: -45, y: -13.5}
+        - {x: -38, y: -16.5}
+        - {x: -16, y: -16.5}
+        - {x: -4, y: 0.5}
+        - {x: -4, y: 7.5}
+        - {x: -5, y: 8.5}
+      - - {x: -80, y: 36.5}
+        - {x: -80, y: 15.5}
+        - {x: -71, y: -12.5}
+        - {x: -69, y: -15.5}
+        - {x: -63, y: -15.5}
+        - {x: -58, y: -14.5}
+        - {x: -44, y: 27.5}
+        - {x: -44, y: 36.5}
+      - - {x: -85, y: 46.5}
+        - {x: -86, y: 45.5}
+        - {x: -86, y: 31.5}
+        - {x: -85, y: 30.5}
+        - {x: -77, y: 30.5}
+        - {x: -77, y: 44.5}
+        - {x: -81, y: 46.5}
+    - name: KeepWorkingGiveUp_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 400
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: 21.5}
+        - {x: -97, y: 7.5}
+        - {x: -95, y: 29.5}
+        - {x: -98, y: 32.5}
+        - {x: -144, y: 32.5}
+        - {x: -160, y: 11.5}
+        - {x: -160, y: -38.5}
+        - {x: -156, y: -39.5}
+        - {x: -66, y: -39.5}
+        - {x: -66, y: 9.5}
+        - {x: -84, y: 26.5}
+      - - {x: 159, y: 25.5}
+        - {x: 152, y: 16.5}
+        - {x: 152, y: -24.5}
+        - {x: 157, y: -30.5}
+        - {x: 192, y: -30.5}
+        - {x: 198, y: -15.5}
+        - {x: 198, y: 8.5}
+        - {x: 184, y: 25.5}
+      - - {x: -188, y: 35.5}
+        - {x: -192, y: 30.5}
+        - {x: -195, y: 13.5}
+        - {x: -195, y: -19.5}
+        - {x: -156, y: -19.5}
+        - {x: -156, y: -14.5}
+        - {x: -157, y: -12.5}
+        - {x: -162, y: 31.5}
+        - {x: -174, y: 35.5}
+      - - {x: 137, y: 27.5}
+        - {x: 127, y: 24.5}
+        - {x: 124, y: 20.5}
+        - {x: 124, y: -16.5}
+        - {x: 155, y: -16.5}
+        - {x: 155, y: 27.5}
+      - - {x: 114, y: 40.5}
+        - {x: 95, y: 35.5}
+        - {x: 85, y: -2.5}
+        - {x: 85, y: -10.5}
+        - {x: 88, y: -12.5}
+        - {x: 112, y: -12.5}
+        - {x: 115, y: -11.5}
+        - {x: 109, y: 0.5}
+        - {x: 116, y: -12.5}
+        - {x: 120, y: -12.5}
+        - {x: 124, y: -10.5}
+        - {x: 128, y: 19.5}
+        - {x: 128, y: 37.5}
+        - {x: 124, y: 40.5}
+      - - {x: 76, y: 3.5}
+        - {x: 89, y: 14.5}
+        - {x: 89, y: 23.5}
+        - {x: 56, y: 25.5}
+        - {x: 55, y: 22.5}
+        - {x: 55, y: 18.5}
+        - {x: 54, y: 17.5}
+        - {x: 55, y: 20.5}
+        - {x: 55, y: 26.5}
+        - {x: 52, y: 32.5}
+        - {x: 29, y: 32.5}
+        - {x: 24, y: 29.5}
+        - {x: 24, y: -0.5}
+        - {x: 28, y: -11.5}
+        - {x: 43, y: -11.5}
+        - {x: 44, y: -10.5}
+        - {x: 48, y: -7.5}
+        - {x: 52, y: -11.5}
+        - {x: 59, y: -11.5}
+      - - {x: 19, y: 42.5}
+        - {x: -32, y: 42.5}
+        - {x: -32, y: 14.5}
+        - {x: -22, y: -10.5}
+        - {x: 16, y: -10.5}
+        - {x: 28, y: 41.5}
+        - {x: 26, y: 43.5}
+        - {x: 21, y: 43.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

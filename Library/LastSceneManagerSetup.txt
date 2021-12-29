@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AA-Scenes/c-LevelSelct2.unity
+  isLoaded: 1
+  isActive: 1

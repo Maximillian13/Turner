@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: b53b8f28d58bf4742b2e6b065ca5b19b
+timeCreated: 1460183913
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run loop spritesheet true turner_0
+    21300002: run loop spritesheet true turner_1
+    21300004: run loop spritesheet true turner_2
+    21300006: run loop spritesheet true turner_3
+    21300008: run loop spritesheet true turner_4
+    21300010: run loop spritesheet true turner_5
+    21300012: run loop spritesheet true turner_6
+    21300014: run loop spritesheet true turner_7
+    21300016: run loop spritesheet true turner_8
+    21300018: run loop spritesheet true turner_9
+    21300020: run loop spritesheet true turner_10
+    21300022: run loop spritesheet true turner_11
+    21300024: run loop spritesheet true turner_12
+    21300026: run loop spritesheet true turner_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: run loop spritesheet true turner_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 162
+        width: 52
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 11.350006}
+        - {x: 26, y: 46.350006}
+        - {x: -5, y: 46.350006}
+        - {x: -26, y: 3.350006}
+        - {x: -26, y: -56.649994}
+        - {x: -8, y: -56.649994}
+        - {x: -8, y: -53.649994}
+        - {x: -10, y: -51.649994}
+        - {x: 14, y: -30.649994}
+    - name: run loop spritesheet true turner_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 162
+        width: 59
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -56.649994}
+        - {x: 29.5, y: -12.649994}
+        - {x: 29.5, y: 46.350006}
+        - {x: 9.5, y: 46.350006}
+        - {x: -11.5, y: 28.350006}
+        - {x: -29.5, y: -22.649994}
+        - {x: -29.5, y: -56.649994}
+        - {x: -10.5, y: -56.649994}
+        - {x: -10.5, y: -54.649994}
+        - {x: -13.5, y: -51.649994}
+        - {x: 0.5, y: -55.649994}
+    - name: run loop spritesheet true turner_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 162
+        width: 69
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 46.350006}
+        - {x: 4.5, y: 46.350006}
+        - {x: -34.5, y: -15.649994}
+        - {x: -34.5, y: -54.649994}
+        - {x: -31.5, y: -56.649994}
+        - {x: 15.5, y: -56.649994}
+        - {x: 20.5, y: -55.649994}
+        - {x: 34.5, y: -51.649994}
+        - {x: 34.5, y: 45.350006}
+    - name: run loop spritesheet true turner_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 162
+        width: 67
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 45.449997}
+        - {x: -13.5, y: 21.449997}
+        - {x: -33.5, y: -34.550003}
+        - {x: -33.5, y: -55.550003}
+        - {x: 33.5, y: -55.550003}
+        - {x: 33.5, y: 45.449997}
+    - name: run loop spritesheet true turner_4
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 162
+        width: 68
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 45}
+        - {x: -8, y: 18}
+        - {x: -13, y: -3}
+        - {x: -34, y: -30}
+        - {x: -34, y: -49}
+        - {x: -14, y: -55}
+        - {x: 30, y: -55}
+        - {x: 34, y: -35}
+        - {x: 34, y: 45}
+    - name: run loop spritesheet true turner_5
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 162
+        width: 69
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 44.100006}
+        - {x: -34.5, y: 1.1000061}
+        - {x: -34.5, y: -53.899994}
+        - {x: 10.5, y: -53.899994}
+        - {x: 34.5, y: -13.899994}
+        - {x: 34.5, y: 44.100006}
+    - name: run loop spritesheet true turner_6
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 162
+        width: 58
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 44.550003}
+        - {x: -23, y: 12.550003}
+        - {x: -29, y: -7.449997}
+        - {x: -29, y: -54.449997}
+        - {x: 9, y: -54.449997}
+        - {x: 29, y: 18.550003}
+        - {x: 29, y: 44.550003}
+    - name: run loop spritesheet true turner_7
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 162
+        width: 54
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 44.550003}
+        - {x: 7, y: 44.550003}
+        - {x: -22, y: 14.550003}
+        - {x: -27, y: -31.449997}
+        - {x: -27, y: -54.449997}
+        - {x: -8, y: -54.449997}
+        - {x: 3, y: -46.449997}
+        - {x: 27, y: -5.449997}
+        - {x: 27, y: 43.550003}
+    - name: run loop spritesheet true turner_8
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 162
+        width: 59
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -56.100006}
+        - {x: 20.5, y: -56.100006}
+        - {x: 22.5, y: -55.100006}
+        - {x: 29.5, y: 6.899994}
+        - {x: 29.5, y: 45.899994}
+        - {x: 11.5, y: 45.899994}
+        - {x: -11.5, y: 34.899994}
+        - {x: -29.5, y: -16.100006}
+        - {x: -29.5, y: -56.100006}
+        - {x: -10.5, y: -56.100006}
+        - {x: -10.5, y: -54.100006}
+        - {x: -13.5, y: -51.100006}
+        - {x: -5.5, y: -54.100006}
+    - name: run loop spritesheet true turner_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 23
+        width: 69
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 46.35}
+        - {x: 4.5, y: 46.35}
+        - {x: -34.5, y: -15.650002}
+        - {x: -34.5, y: -54.65}
+        - {x: -31.5, y: -56.65}
+        - {x: 15.5, y: -56.65}
+        - {x: 20.5, y: -55.65}
+        - {x: 34.5, y: -51.65}
+        - {x: 34.5, y: 45.35}
+    - name: run loop spritesheet true turner_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 23
+        width: 67
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 45.449997}
+        - {x: -33.5, y: 3.449997}
+        - {x: -33.5, y: -55.550003}
+        - {x: 30.5, y: -55.550003}
+        - {x: 33.5, y: -33.550003}
+        - {x: 33.5, y: 45.449997}
+    - name: run loop spritesheet true turner_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 23
+        width: 68
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 45.449997}
+        - {x: -13, y: 28.449997}
+        - {x: -34, y: -27.550003}
+        - {x: -34, y: -49.550003}
+        - {x: -31, y: -50.550003}
+        - {x: -3, y: -55.550003}
+        - {x: 21, y: -55.550003}
+        - {x: 25, y: -53.550003}
+        - {x: 34, y: -2.550003}
+        - {x: 34, y: 45.449997}
+    - name: run loop spritesheet true turner_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 23
+        width: 65
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 45.449997}
+        - {x: -13.5, y: 26.449997}
+        - {x: -32.5, y: 2.449997}
+        - {x: -32.5, y: -55.550003}
+        - {x: 15.5, y: -55.550003}
+        - {x: 32.5, y: 15.449997}
+        - {x: 32.5, y: 45.449997}
+    - name: run loop spritesheet true turner_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 23
+        width: 54
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -55}
+        - {x: 11, y: -55}
+        - {x: 27, y: 20}
+        - {x: 27, y: 45}
+        - {x: 3, y: 45}
+        - {x: -27, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: c7c82ff34737ff1438da270a3cde2ca5
+timeCreated: 1464397538
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run loop spritesheet mask up_0
+    21300002: run loop spritesheet mask up_1
+    21300004: run loop spritesheet mask up_2
+    21300006: run loop spritesheet mask up_3
+    21300008: run loop spritesheet mask up_4
+    21300010: run loop spritesheet mask up_5
+    21300012: run loop spritesheet mask up_6
+    21300014: run loop spritesheet mask up_7
+    21300016: run loop spritesheet mask up_8
+    21300018: run loop spritesheet mask up_9
+    21300020: run loop spritesheet mask up_10
+    21300022: run loop spritesheet mask up_11
+    21300024: run loop spritesheet mask up_12
+    21300026: run loop spritesheet mask up_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: run loop spritesheet mask up_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 157
+        width: 61
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 49.050003}
+        - {x: -23.5, y: 36.050003}
+        - {x: -30.5, y: -10.949997}
+        - {x: -30.5, y: -59.949997}
+        - {x: -1.5, y: -59.949997}
+        - {x: 20.5, y: -33.949997}
+        - {x: 30.5, y: 21.050003}
+        - {x: 30.5, y: 49.050003}
+    - name: run loop spritesheet mask up_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 157
+        width: 68
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -49.949997}
+        - {x: -6, y: -50.949997}
+        - {x: -5, y: -53.949997}
+        - {x: -1, y: -57.949997}
+        - {x: 2, y: -58.949997}
+        - {x: 17, y: -58.949997}
+        - {x: 34, y: -57.949997}
+        - {x: 34, y: 49.050003}
+        - {x: 7, y: 49.050003}
+        - {x: -20, y: 36.050003}
+        - {x: -34, y: -25.949997}
+        - {x: -34, y: -59.949997}
+        - {x: -8, y: -59.949997}
+        - {x: -6, y: -56.949997}
+        - {x: -5, y: -52.949997}
+        - {x: -6, y: -51.949997}
+    - name: run loop spritesheet mask up_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 157
+        width: 79
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 49.050003}
+        - {x: -13.5, y: 33.050003}
+        - {x: -39.5, y: -17.949997}
+        - {x: -39.5, y: -56.949997}
+        - {x: -37.5, y: -59.949997}
+        - {x: 24.5, y: -59.949997}
+        - {x: 39.5, y: -56.949997}
+        - {x: 39.5, y: 49.050003}
+    - name: run loop spritesheet mask up_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 157
+        width: 76
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 48.149994}
+        - {x: -11, y: 28.149994}
+        - {x: -38, y: -31.850006}
+        - {x: -38, y: -58.850006}
+        - {x: 38, y: -58.850006}
+        - {x: 38, y: 48.149994}
+    - name: run loop spritesheet mask up_4
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 157
+        width: 77
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 47.699997}
+        - {x: -7.5, y: 26.699997}
+        - {x: -15.5, y: 13.699997}
+        - {x: -38.5, y: -17.300003}
+        - {x: -38.5, y: -58.300003}
+        - {x: 28.5, y: -58.300003}
+        - {x: 26.5, y: -47.300003}
+        - {x: 38.5, y: 11.699997}
+        - {x: 38.5, y: 47.699997}
+    - name: run loop spritesheet mask up_5
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 157
+        width: 76
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 46.350006}
+        - {x: -38, y: 3.350006}
+        - {x: -38, y: -56.649994}
+        - {x: 20, y: -56.649994}
+        - {x: 38, y: -31.649994}
+        - {x: 38, y: 46.350006}
+    - name: run loop spritesheet mask up_6
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 157
+        width: 65
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 46.800003}
+        - {x: -32.5, y: -57.199997}
+        - {x: 9.5, y: -57.199997}
+        - {x: 32.5, y: 7.800003}
+        - {x: 32.5, y: 46.800003}
+    - name: run loop spritesheet mask up_7
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 157
+        width: 61
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 46.800003}
+        - {x: -30.5, y: 27.800003}
+        - {x: -30.5, y: -57.199997}
+        - {x: 10.5, y: -57.199997}
+        - {x: 30.5, y: 0.80000305}
+        - {x: 30.5, y: 46.800003}
+    - name: run loop spritesheet mask up_8
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 157
+        width: 68
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -47.399994}
+        - {x: -5, y: -53.399994}
+        - {x: -5, y: -59.399994}
+        - {x: 34, y: -59.399994}
+        - {x: 34, y: 48.600006}
+        - {x: 5, y: 48.600006}
+        - {x: -14, y: 28.600006}
+        - {x: -34, y: -38.399994}
+        - {x: -34, y: -59.399994}
+        - {x: -7, y: -59.399994}
+        - {x: -6, y: -56.399994}
+        - {x: -5, y: -52.399994}
+        - {x: -6, y: -51.399994}
+    - name: run loop spritesheet mask up_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 79
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 49.050003}
+        - {x: -13.5, y: 33.050003}
+        - {x: -39.5, y: -17.949997}
+        - {x: -39.5, y: -56.949997}
+        - {x: -37.5, y: -59.949997}
+        - {x: 24.5, y: -59.949997}
+        - {x: 39.5, y: -56.949997}
+        - {x: 39.5, y: 49.050003}
+    - name: run loop spritesheet mask up_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 18
+        width: 76
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 48.149994}
+        - {x: -10, y: 28.149994}
+        - {x: -14, y: 16.149994}
+        - {x: -38, y: -32.850006}
+        - {x: -38, y: -58.850006}
+        - {x: 38, y: -58.850006}
+        - {x: 38, y: 48.149994}
+    - name: run loop spritesheet mask up_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 18
+        width: 77
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 48.149994}
+        - {x: -9.5, y: 28.149994}
+        - {x: -13.5, y: 16.149994}
+        - {x: -38.5, y: -16.850006}
+        - {x: -38.5, y: -58.850006}
+        - {x: 28.5, y: -58.850006}
+        - {x: 38.5, y: -2.850006}
+        - {x: 38.5, y: 48.149994}
+    - name: run loop spritesheet mask up_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 18
+        width: 74
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 48.149994}
+        - {x: -37, y: 5.149994}
+        - {x: -37, y: -54.850006}
+        - {x: -30, y: -58.850006}
+        - {x: 20, y: -58.850006}
+        - {x: 37, y: 18.149994}
+        - {x: 37, y: 48.149994}
+    - name: run loop spritesheet mask up_13
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 18
+        width: 63
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 48.149994}
+        - {x: -16.5, y: 28.149994}
+        - {x: -19.5, y: 16.149994}
+        - {x: -22.5, y: -1.8500061}
+        - {x: -31.5, y: -26.850006}
+        - {x: -31.5, y: -56.850006}
+        - {x: -21.5, y: -58.850006}
+        - {x: 8.5, y: -58.850006}
+        - {x: 11.5, y: -51.850006}
+        - {x: 31.5, y: 18.149994}
+        - {x: 31.5, y: 48.149994}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

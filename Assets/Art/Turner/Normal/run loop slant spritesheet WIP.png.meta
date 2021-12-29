@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: bf1516ec9a2bc1141910f3bd066c8ea5
+timeCreated: 1459708657
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run loop slant spritesheet WIP_0
+    21300002: run loop slant spritesheet WIP_1
+    21300004: run loop slant spritesheet WIP_2
+    21300006: run loop slant spritesheet WIP_3
+    21300008: run loop slant spritesheet WIP_4
+    21300010: run loop slant spritesheet WIP_5
+    21300012: run loop slant spritesheet WIP_6
+    21300014: run loop slant spritesheet WIP_7
+    21300016: run loop slant spritesheet WIP_8
+    21300018: run loop slant spritesheet WIP_9
+    21300020: run loop slant spritesheet WIP_10
+    21300022: run loop slant spritesheet WIP_11
+    21300024: run loop slant spritesheet WIP_12
+    21300026: run loop slant spritesheet WIP_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: run loop slant spritesheet WIP_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 48}
+        - {x: -20.5, y: 29}
+        - {x: -26.5, y: 21}
+        - {x: -26.5, y: -41}
+        - {x: -16.5, y: -66}
+        - {x: 26.5, y: -66}
+        - {x: 26.5, y: 48}
+    - name: run loop slant spritesheet WIP_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 152
+        width: 58
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -52.100006}
+        - {x: 13, y: -55.100006}
+        - {x: 29, y: -45.100006}
+        - {x: 29, y: 46.899994}
+        - {x: 27, y: 48.899994}
+        - {x: -10, y: 48.899994}
+        - {x: -24, y: 19.899994}
+        - {x: -27, y: 13.899994}
+        - {x: -29, y: 5.899994}
+        - {x: -29, y: -65.100006}
+        - {x: -24, y: -67.100006}
+        - {x: 2, y: -67.100006}
+        - {x: 7, y: -61.100006}
+        - {x: 8, y: -55.100006}
+        - {x: 3, y: -49.100006}
+    - name: run loop slant spritesheet WIP_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 148
+        width: 69
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: -69.3}
+        - {x: 34.5, y: -69.3}
+        - {x: 34.5, y: 46.699997}
+        - {x: 32.5, y: 50.699997}
+        - {x: -16.5, y: 50.699997}
+        - {x: -34.5, y: 22.699997}
+    - name: run loop slant spritesheet WIP_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 147
+        width: 67
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 49.149994}
+        - {x: -33.5, y: 28.149994}
+        - {x: -33.5, y: -69.850006}
+        - {x: 33.5, y: -69.850006}
+        - {x: 33.5, y: 49.149994}
+    - name: run loop slant spritesheet WIP_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 153
+        width: 62
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 45.449997}
+        - {x: -31, y: 21.449997}
+        - {x: -31, y: -66.55}
+        - {x: 4, y: -66.55}
+        - {x: 31, y: -53.550003}
+        - {x: 31, y: 45.449997}
+    - name: run loop slant spritesheet WIP_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 161
+        width: 59
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 38.850006}
+        - {x: -29.5, y: 21.850006}
+        - {x: -29.5, y: -62.149994}
+        - {x: 20.5, y: -62.149994}
+        - {x: 29.5, y: -57.149994}
+        - {x: 29.5, y: 38.850006}
+    - name: run loop slant spritesheet WIP_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 159
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 40.75}
+        - {x: 5.5, y: 40.75}
+        - {x: -24.5, y: 26.75}
+        - {x: -27.5, y: 7.75}
+        - {x: -27.5, y: -37.25}
+        - {x: -21.5, y: -63.25}
+        - {x: 19.5, y: -63.25}
+        - {x: 27.5, y: -61.25}
+        - {x: 27.5, y: 37.75}
+    - name: run loop slant spritesheet WIP_7
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 154
+        width: 52
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 43}
+        - {x: -17, y: 35}
+        - {x: -26, y: 15}
+        - {x: -26, y: -27}
+        - {x: -15, y: -66}
+        - {x: 23, y: -66}
+        - {x: 26, y: -42}
+        - {x: 26, y: 43}
+    - name: run loop slant spritesheet WIP_8
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 151
+        width: 57
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 48.350006}
+        - {x: -28.5, y: 27.350006}
+        - {x: -28.5, y: -67.649994}
+        - {x: 6.5, y: -67.649994}
+        - {x: 28.5, y: -52.649994}
+        - {x: 28.5, y: 46.350006}
+        - {x: 26.5, y: 48.350006}
+    - name: run loop slant spritesheet WIP_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 69
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 48.5}
+        - {x: -34.5, y: 31.5}
+        - {x: -34.5, y: -71.5}
+        - {x: 19.5, y: -71.5}
+        - {x: 34.5, y: -60.5}
+        - {x: 34.5, y: 48.5}
+    - name: run loop slant spritesheet WIP_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 7
+        width: 67
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 47.4}
+        - {x: -33.5, y: 17.400002}
+        - {x: -33.5, y: -68.6}
+        - {x: -32.5, y: -72.6}
+        - {x: 33.5, y: -72.6}
+        - {x: 33.5, y: 47.4}
+    - name: run loop slant spritesheet WIP_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 14
+        width: 62
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 44.25}
+        - {x: -27, y: 27.25}
+        - {x: -31, y: 12.25}
+        - {x: -31, y: -68.75}
+        - {x: 10, y: -68.75}
+        - {x: 31, y: -61.75}
+        - {x: 31, y: 38.25}
+        - {x: 24, y: 44.25}
+    - name: run loop slant spritesheet WIP_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 22
+        width: 55
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 40.65}
+        - {x: -20.5, y: 18.650002}
+        - {x: -27.5, y: 8.650002}
+        - {x: -27.5, y: -64.35}
+        - {x: 22.5, y: -64.35}
+        - {x: 27.5, y: -61.35}
+        - {x: 27.5, y: 40.65}
+    - name: run loop slant spritesheet WIP_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 20
+        width: 52
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 41.1}
+        - {x: 18, y: 42.1}
+        - {x: -3, y: 42.1}
+        - {x: -26, y: 33.1}
+        - {x: -26, y: -64.9}
+        - {x: 21, y: -64.9}
+        - {x: 26, y: -62.9}
+        - {x: 26, y: 36.1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

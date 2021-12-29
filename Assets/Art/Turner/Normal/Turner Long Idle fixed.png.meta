@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: c44331aef6291b4498767a7513ceef64
+timeCreated: 1461962230
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Turner Long Idle fixed_0
+    21300002: Turner Long Idle fixed_1
+    21300004: Turner Long Idle fixed_2
+    21300006: Turner Long Idle fixed_3
+    21300008: Turner Long Idle fixed_4
+    21300010: Turner Long Idle fixed_5
+    21300012: Turner Long Idle fixed_6
+    21300014: Turner Long Idle fixed_7
+    21300016: Turner Long Idle fixed_8
+    21300018: Turner Long Idle fixed_9
+    21300020: Turner Long Idle fixed_10
+    21300022: Turner Long Idle fixed_11
+    21300024: Turner Long Idle fixed_12
+    21300026: Turner Long Idle fixed_13
+    21300028: Turner Long Idle fixed_14
+    21300030: Turner Long Idle fixed_15
+    21300032: Turner Long Idle fixed_16
+    21300034: Turner Long Idle fixed_17
+    21300036: Turner Long Idle fixed_18
+    21300038: Turner Long Idle fixed_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Turner Long Idle fixed_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 465
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 60.5}
+        - {x: -9, y: 59.5}
+        - {x: -20, y: 40.5}
+        - {x: -20, y: -26.5}
+        - {x: -18, y: -60.5}
+        - {x: 20, y: -60.5}
+        - {x: 20, y: 58.5}
+        - {x: 19, y: 60.5}
+    - name: Turner Long Idle fixed_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 465
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 60.5}
+        - {x: -20, y: 44.5}
+        - {x: -20, y: -16.5}
+        - {x: -15, y: -60.5}
+        - {x: 20, y: -60.5}
+        - {x: 20, y: 60.5}
+    - name: Turner Long Idle fixed_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 465
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 61}
+        - {x: -20, y: 43}
+        - {x: -20, y: -19}
+        - {x: -14, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 61}
+    - name: Turner Long Idle fixed_3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 465
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -20, y: 40}
+        - {x: -20, y: -24}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 61}
+    - name: Turner Long Idle fixed_4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 465
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 315
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 315
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 315
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 315
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_9
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 315
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -20, y: 40}
+        - {x: -20, y: -24}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 61}
+    - name: Turner Long Idle fixed_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 165
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 165
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 165
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_13
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 165
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 165
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 15
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -13, y: 60}
+        - {x: -20, y: 40}
+        - {x: -20, y: -19}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 52}
+        - {x: 17, y: 61}
+    - name: Turner Long Idle fixed_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 15
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 61}
+        - {x: -20, y: 40}
+        - {x: -20, y: -24}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 61}
+    - name: Turner Long Idle fixed_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 15
+        width: 40
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 61}
+        - {x: -20, y: 38}
+        - {x: -20, y: -23}
+        - {x: -18, y: -61}
+        - {x: 20, y: -61}
+        - {x: 20, y: 53}
+        - {x: 15, y: 61}
+    - name: Turner Long Idle fixed_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 15
+        width: 40
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 60.5}
+        - {x: -9, y: 59.5}
+        - {x: -20, y: 40.5}
+        - {x: -20, y: -26.5}
+        - {x: -18, y: -60.5}
+        - {x: 20, y: -60.5}
+        - {x: 20, y: 58.5}
+        - {x: 19, y: 60.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

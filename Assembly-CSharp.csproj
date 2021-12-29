@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{53F75963-5134-0C69-893C-037294F6BA6B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_4_0;UNITY_5_4;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_EDITOR_RETINA;ENABLE_RETINA_GUISTYLES;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_TEXTUREID_MAP;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>E:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>E:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\BoxButtonBlink.cs" />
+     <Compile Include="Assets\CutSceneLPFive.cs" />
+     <Compile Include="Assets\CutSceneLPFivePart2.cs" />
+     <Compile Include="Assets\CutSceneLPFivePart3.cs" />
+     <Compile Include="Assets\CutSceneLPFour.cs" />
+     <Compile Include="Assets\CutSceneLPOne.cs" />
+     <Compile Include="Assets\CutSceneLPThree.cs" />
+     <Compile Include="Assets\CutSceneLPTwo.cs" />
+     <Compile Include="Assets\CutSceneLeave.cs" />
+     <Compile Include="Assets\CutSceneTranslation.cs" />
+     <Compile Include="Assets\DestroyGib.cs" />
+     <Compile Include="Assets\DialogBox.cs" />
+     <Compile Include="Assets\HideCursor.cs" />
+     <Compile Include="Assets\JailEndControl.cs" />
+     <Compile Include="Assets\KillZoneSpecail.cs" />
+     <Compile Include="Assets\LPAchivments.cs" />
+     <Compile Include="Assets\LeaderBoardScript.cs" />
+     <Compile Include="Assets\LevelSelectionSpecail.cs" />
+     <Compile Include="Assets\MainCameraManager.cs" />
+     <Compile Include="Assets\MainMenuTranslate.cs" />
+     <Compile Include="Assets\Memory.cs" />
+     <Compile Include="Assets\MoveRoomSpecail.cs" />
+     <Compile Include="Assets\OptionsMenuTranslate.cs" />
+     <Compile Include="Assets\OutsideDeath.cs" />
+     <Compile Include="Assets\PlayerControlsBlink.cs" />
+     <Compile Include="Assets\ResetLevelOnPlayerCommandSpecail.cs" />
+     <Compile Include="Assets\ResetShower.cs" />
+     <Compile Include="Assets\ResetSpeedRun.cs" />
+     <Compile Include="Assets\SaveTheLevelSpecail.cs" />
+     <Compile Include="Assets\Scripts\Buttons\BoxButton.cs" />
+     <Compile Include="Assets\Scripts\Buttons\BoxButtonHideShow.cs" />
+     <Compile Include="Assets\Scripts\Buttons\BoxButtonStick.cs" />
+     <Compile Include="Assets\Scripts\Buttons\BoxButtonTime.cs" />
+     <Compile Include="Assets\Scripts\Enimies\GreenKoopaControls.cs" />
+     <Compile Include="Assets\Scripts\Enimies\RedKoopaControls.cs" />
+     <Compile Include="Assets\Scripts\Enimies\SurveillanceCam.cs" />
+     <Compile Include="Assets\Scripts\Enimies\SurveillanceCamBlink.cs" />
+     <Compile Include="Assets\Scripts\Music\DestroyMusic.cs" />
+     <Compile Include="Assets\Scripts\Music\DontDestroyOnLoad.cs" />
+     <Compile Include="Assets\Scripts\Music\MusicBegining.cs" />
+     <Compile Include="Assets\Scripts\Music\VolumeControl.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\Credits.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneChoice.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneFive.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneFour.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneOne.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneSeven.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneSix.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneThree.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneTwo.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\CutSceneWakeUp.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\LevelSelection.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\MainMenuButtonScript.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\MainMenuCameraControl.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\MainMenuControl.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\OptionButtonScript.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\PageButtonScripts.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\PageRotate.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\QuickSelectControl.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\RotateCamera.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\ScrollCredits.cs" />
+     <Compile Include="Assets\Scripts\Other Menues\TutorialControl.cs" />
+     <Compile Include="Assets\Scripts\Other\AttachCam.cs" />
+     <Compile Include="Assets\Scripts\Other\BeatGame.cs" />
+     <Compile Include="Assets\Scripts\Other\CreditsTwo.cs" />
+     <Compile Include="Assets\Scripts\Other\DisorientedCamera.cs" />
+     <Compile Include="Assets\Scripts\Other\FilterColor.cs" />
+     <Compile Include="Assets\Scripts\Other\FinalPage.cs" />
+     <Compile Include="Assets\Scripts\Other\PopUpHallucanicion.cs" />
+     <Compile Include="Assets\Scripts\Other\ShowCursor.cs" />
+     <Compile Include="Assets\Scripts\Other\TrueWorldContol.cs" />
+     <Compile Include="Assets\Scripts\Other\UIHelper.cs" />
+     <Compile Include="Assets\Scripts\Steamwork.NET\SteamManager.cs" />
+     <Compile Include="Assets\Scripts\Tag Along\FadeAway.cs" />
+     <Compile Include="Assets\Scripts\Tag Along\FadeIn.cs" />
+     <Compile Include="Assets\Scripts\Tag Along\MusicScript.cs" />
+     <Compile Include="Assets\Scripts\Tag Along\PauseControl.cs" />
+     <Compile Include="Assets\Scripts\Tag Along\SaveTheLevel.cs" />
+     <Compile Include="Assets\Scripts\Tag Along\SelectButtonIfNothingIsSeleced.cs" />
+     <Compile Include="Assets\Scripts\Turner\ClingKill.cs" />
+     <Compile Include="Assets\Scripts\Turner\GroundTester.cs" />
+     <Compile Include="Assets\Scripts\Turner\PlayerControls.cs" />
+     <Compile Include="Assets\Scripts\Turner\PlayerControlsCling.cs" />
+     <Compile Include="Assets\Scripts\Turner\PlayerControlsDisoriented.cs" />
+     <Compile Include="Assets\Scripts\Turner\PlayerControlsDoubleJump.cs" />
+     <Compile Include="Assets\Scripts\Turner\PlayerControlsEnd.cs" />
+     <Compile Include="Assets\Scripts\Turner\PlayerControlsStart.cs" />
+     <Compile Include="Assets\Scripts\Turner\PlayerControlsTrue.cs" />
+     <Compile Include="Assets\Scripts\Turner\ResetLevelOnPlayerCommand.cs" />
+     <Compile Include="Assets\Scripts\Turner\WallTesterLeft.cs" />
+     <Compile Include="Assets\Scripts\Turner\WallTesterRight.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\BlinkWalls.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\BoxButtonRotate.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\BreakGlass.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\BreakableWalls.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\DoorToNextLevel.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\FlipButton.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\KillZone.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\MoveRoom.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\MoveRoomDisoriented.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\MoveRoomReverse.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\OneWayTeleport.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\PagePickUp.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\RoomConstantRotation.cs" />
+     <Compile Include="Assets\Scripts\Walls - Rooms\ToLevelViaCollision.cs" />
+     <Compile Include="Assets\SpeedRun.cs" />
+     <Compile Include="Assets\SpeedRunRecorder.cs" />
+     <Compile Include="Assets\SplashScreen.cs" />
+     <Compile Include="Assets\SteamAchievmentLevelProgress.cs" />
+     <Compile Include="Assets\SteamScriptTest.cs" />
+     <None Include="Assets\Plugins\Steamworks.NET\redist\steam_appid.txt" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>E:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{D01C76C7-0823-B904-F817-4E9C0A48BBF9}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
